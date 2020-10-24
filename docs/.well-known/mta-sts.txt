@@ -1,0 +1,4 @@
+version: STSv1
+mode: testing
+mx: mailforwarder.domaincentral.com.au
+max_age: 604800
